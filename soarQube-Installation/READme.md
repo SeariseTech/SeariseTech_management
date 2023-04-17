@@ -1,6 +1,6 @@
-#  **<span style="color:green">Landmark Technologies, Ontario, Canada.</span>**
-### **<span style="color:green">Contacts: +1437 215 2483<br> WebSite : <http://mylandmarktech.com/></span>**
-### **Email: mylandmarktech@gmail.com**
+#  **<span style="color:green">Searise Technologies, Largo Maryland, United State Of America.</span>**
+### **<span style="color:green">Contacts: +1301-852-4894<br> WebSite : <https://searisetech.com/></span>**
+### **searisetech@gmail.com**
 
 
 
